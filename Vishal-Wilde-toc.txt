@@ -1,0 +1,13 @@
+Vishal-Wilde-toc.txt
+
+MSc Project Dissertation (Appendices 2 and 3 are fully included at end of Dissertation also)
+
+Appendix 1 - Specification and Proposed Design Vishal Wilde
+
+Appendix 2 - User guide to installation and usage of software (included in Dissertation)
+
+Appendix 3 - Project log (included in Dissertation)
+
+Appendix 4 - Original Source Code
+
+Appendices 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 - Variations of source code to obtain different batches of results.
